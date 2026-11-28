@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6b012d15fd4dc1eb521698aa"
+  },
+  "name": "Frodo Baggins",
+  "age": 50,
+  "userName": "Mr Underhill"
+},
+{
+  "_id": {
+    "$oid": "6b0130096b4834c534272bbc"
+  },
+  "name": "Samwise Gamgee",
+  "age": 38,
+  "userName": "Gardner"
+},
+{
+  "_id": {
+    "$oid": "6b0130096b4834c534272bbd"
+  },
+  "name": "Meriadoc Brandybuck",
+  "age": 36,
+  "userName": "Merry"
+},
+{
+  "_id": {
+    "$oid": "6b0130096b4834c534272bbe"
+  },
+  "name": "Peregrin Took",
+  "age": 28,
+  "username": "Pippin"
+}]
